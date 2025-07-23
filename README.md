@@ -29,10 +29,15 @@ This project was developed and trained using French as the target language.
 ## Directory Structure 
 
 ├── config/
+
 │ └── [Updated YAML files for French dataset]
+
 ├── preprocessed_data/
+
 │ └── [French-aligned TextGrid files]
+
 ├── scripts/
+
 │ └── [Custom or modified training and synthesis scripts]
 
 ## How to Run
