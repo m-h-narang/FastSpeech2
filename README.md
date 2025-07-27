@@ -1,6 +1,6 @@
 # FastSpeech2 on Hábrók — French Speech Synthesis
 
-This project implements and customizes the open-source [FastSpeech2](https://github.com/ming024/FastSpeech2) model on the Hábrók cluster. It is part of the Speech Synthesis 2 Final Project in the Voice Technology MSc. 2024–2025.
+This project implements and customizes the open-source [FastSpeech2](https://github.com/ming024/FastSpeech2) model on the Hábrók cluster. 2024–2025
 
 ## Original Repository
 
@@ -28,17 +28,14 @@ This project was developed and trained using French as the target language.
 
 ## Directory Structure 
 
+```
 ├── config/
-
 │ └── [Updated YAML files for French dataset]
-
 ├── preprocessed_data/
-
 │ └── [French-aligned TextGrid files]
-
 ├── scripts/
-
 │ └── [Custom or modified training and synthesis scripts]
+```
 
 ## How to Run
 
